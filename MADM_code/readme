@@ -1,0 +1,14 @@
+------------------------------------------------------------------------------------------
+	                   Readme for the MADM Package
+	 		                   version May 19, 2023
+------------------------------------------------------------------------------------------
+
+The package includes the MATLAB code of the MADM.
+
+------------------------------------------------------------------------------------------
+
+This repository contains the source code for the paper Max-instance-margin-based model without missing-value-preprocessing for anomaly detection.
+
+How to use?
+1. For the ODDS datasets, you can use main_odds.m
+2. For the cifar datasets, you can use main_cifar.m
